@@ -26,3 +26,7 @@
 2. 반대로 guard let은 바인딩된 변수의 scope는 global variable 로 local variable에서는 사용이 불가능함. 
 <img width="718" alt="image" src="https://user-images.githubusercontent.com/29904301/172043327-c3c99dc4-447a-48ad-8c7f-9ac7c251d048.png">
 
+
+<br>
+<br>
+> https://babbab2.tistory.com/17
