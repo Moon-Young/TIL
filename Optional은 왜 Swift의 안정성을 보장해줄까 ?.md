@@ -39,9 +39,8 @@
 #### 정답은 'NO!' nil은 Optional-Type에만 넣을 수 있음.
 #### nil을 넣는 방법은 2가지
 
-#### Type Anootation - 자료형(Type)의 뒤에 '?' 붙여주기
+#### Type Annotation - 자료형(Type)의 뒤에 '?' 붙여주기
 ![image](https://user-images.githubusercontent.com/29904301/173018007-dcf952e1-4151-4e6d-a28f-d848a55a036d.png)
-
 
 #### Type Inference - 추론을 옵셔널 타입으로 추론하게끔 값을 넣는 방법
 ![image](https://user-images.githubusercontent.com/29904301/173019872-21d949df-f6b0-4176-966f-a94229b548c7.png)
