@@ -57,3 +57,4 @@
 
 ### 옵셔널이란 포장지로 자료형을 한번 포장했기 때문에 다시 값을 사용하려면 포장지를 까야는데 그걸 Unwrapping이라고 해요.(다음 TIL에서..)
 
+> https://babbab2.tistory.com/15?category=828998
